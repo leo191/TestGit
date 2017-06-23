@@ -1,3 +1,3 @@
 #include "hd.h"
 
-int mul2(int x){return x*2;}
+int mul4(int x){return x*4;}

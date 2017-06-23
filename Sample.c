@@ -3,6 +3,6 @@
 #include "hd.h"
 int main()
 {
-	printf("sample test:%d",mul2(5));
+	printf("sample test:%d",mul4(5));
 	return 0;
 }
